@@ -2,7 +2,7 @@ h1{
     text-align: center;
 background-color: #004643;
 color: #FAF4D3;
-
+margin: 0%;
 }
 
 
@@ -14,12 +14,15 @@ color: #FAF4D3;
   
 
 body{
+margin: 0%;
 background-color: #FAF4D3;
 font-family: "Share Tech";
 color: #0C1618;
+padding: 2%;
+
 }
 
-.red
+.text
 {
 color: red;
 }
@@ -29,5 +32,36 @@ color: red;
     border-style:dotted;
     border-color: #004643;
 }
+
+
+.red
+{
+width: 100px;
+height: 100px;
+background-color: red;
+margin: 5px;
+display: inline-block;
+}
+
+.blue
+{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+.green
+{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+    display: inline-block;
+
+}
+
 
 
